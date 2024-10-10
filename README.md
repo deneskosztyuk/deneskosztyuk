@@ -14,9 +14,9 @@ I am currently focusing on growing my skills through open-source contributions a
 I’m also open to collaborating on robotics and software engineering projects!
 
 ## Skills & Technologies
-- **Languages**: Java, Python, C#, JavaScript, Kotlin
+- **Languages**: Java, Python, C#, JavaScript, Kotlin, VHDL
 - **Frameworks**: Node.js, React, Flask, Django, Springboot, Hibernate
-- **Tools**: Git, Selenium, PyCharm, Visual Studio, Raspberry Pi, ESP32, Arduino
+- **Tools**: Git, Selenium, PyCharm, Visual Studio, Raspberry Pi, FPGA, ESP32, STM32, Arduino
 - **Concepts**: Machine Learning, Embedded Systems, Circuit and PCB Design, Condition-based Programming
 
 ## How to reach me

@@ -19,7 +19,7 @@ I’m also open to collaborating on robotics and software engineering projects!
 - **Tools**: Git, Selenium, PyCharm, Visual Studio, Raspberry Pi, FPGA, ESP32, STM32, Arduino
 - **Concepts**: Machine Learning, Embedded Systems, Circuit and PCB Design, Condition-based Programming
 
-## How to reach me
+## How to reach me 📬
 - **Web Portfolio**: www.denesk.co.uk
 - LinkedIn: [Denes Kosztyuk](https://www.linkedin.com/in/denes-kosztyuk-766889198/)
 - Email: denes.kosztyuk@gmail.com

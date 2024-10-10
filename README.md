@@ -21,7 +21,7 @@ I’m also open to collaborating on robotics and software engineering projects!
 
 ## How to reach me 📬
 - [**Web Portfolio**](www.denesk.co.uk)
-- [**LinkedIn:**](https://www.linkedin.com/in/denes-kosztyuk-766889198/)
+- [**LinkedIn**](https://www.linkedin.com/in/denes-kosztyuk-766889198/)
 - Email: denes.kosztyuk@gmail.com
 
 

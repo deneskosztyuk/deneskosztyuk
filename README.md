@@ -7,7 +7,7 @@ I'm a computer systems and robotics engineering graduate with a passion for crea
 I am currently focusing on growing my skills through open-source contributions and freelance projects, while actively learning new technologies.
 
 ## What I'm Working On
-- 📡 Building a portable radio telescope system with integrated computer control.
+- 📡 Building a satellite collision prediction web application with Java Spring.
 - 🤖 Exploring machine learning in robotics with custom-trained agents.
 - 🔧 Learning to contributing to open-source projects in the software and embedded systems domains.
 

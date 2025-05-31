@@ -20,7 +20,7 @@ I’m also open to collaborating on robotics and software engineering projects!
 - **Concepts**: Machine Learning, Embedded Systems, Circuit and PCB Design, Condition-based Programming
 
 ## How to reach me 📬
-- [**Web Portfolio**](https://www.denesk.co.uk)
+- [**Web Portfolio**](https://www.denkos.dev)
 - [**LinkedIn**](https://www.linkedin.com/in/denes-kosztyuk-766889198/)
 - **denes.kosztyuk@gmail.com**
 

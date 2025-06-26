@@ -14,14 +14,14 @@ I am currently focusing on growing my skills through open-source contributions a
 I’m also open to collaborating on robotics and software engineering projects!
 
 ## Skills & Technologies
-- **Languages**: Java, Python, C#, JavaScript, Kotlin, VHDL
-- **Frameworks**: Node.js, React, Flask, Django, Springboot, Hibernate
-- **Tools**: Git, Selenium, PyCharm, Visual Studio, Raspberry Pi, FPGA, ESP32, STM32, Arduino
+- **Languages**: Java, Python, C#, JavaScript, TypeScript, VHDL
+- **Frameworks**: Next.js, React, Flask, Spring, Node.js, React Native
+- **Tools**: Git, Selenium, PyCharm, Visual Studio, Raspberry Pi, FPGA, ESP32, STM32, Arduino, Android Studio
 - **Concepts**: Machine Learning, Embedded Systems, Circuit and PCB Design, Condition-based Programming
 
 ## How to reach me 📬
 - [**Web Portfolio**](https://www.denkos.dev)
-- [**LinkedIn**](https://www.linkedin.com/in/denes-kosztyuk-766889198/)
+- [**LinkedIn**](https://www.linkedin.com/in/deneskosztyuk/)
 - **denes.kosztyuk@gmail.com**
 
 

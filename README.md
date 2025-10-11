@@ -3,7 +3,7 @@
 ## Robotics Engineer | Software Engineer | Electronics Engineer
 
 ## About Me
-I'm a computer systems and robotics engineering graduate with a passion for creating interesting projects in software engineering, embedded systems, and robotics.
+I'm a computer systems and robotics engineering with a passion for creating interesting projects in software engineering, embedded systems, and robotics.
 I am currently focusing on growing my skills through open-source contributions and freelance projects, while actively learning new technologies.
 
 ## What I'm Working On
@@ -22,5 +22,4 @@ I’m also open to collaborating on robotics and software engineering projects!
 ## How to reach me 
 - [**Web Portfolio**](https://www.denkos.dev)
 - [**LinkedIn**](https://www.linkedin.com/in/denkosztyuk/)
-- **denes.kosztyuk@gmail.com**
 

@@ -1,141 +1,130 @@
-# 👋 Welcome to My GitHub Portfolio
+# Denes Kosztyuk
 
-I'm Denes, an **Embedded Systems & IoT Engineer** based in Norway, passionate about building real-world hardware-software systems that solve complex problems at scale. I specialize in **low-level embedded development, real-time systems, and IoT architecture**.
+**Software Engineer | Embedded Systems | IoT & Robotics**
 
----
-
-## Embedded & IoT Systems
-
-### Embedded Systems & Hardware-Software Integration
-
-#### **1. Self-Navigating Robotic Device** 🤖
-**Autonomous robotics from PCB to firmware**
-- **Full-stack embedded development:** Custom PCB design (KiCad) → hand-soldered assembly → embedded firmware
-- **Real-time control:** ATmega328p microcontroller with PID motor control for autonomous navigation
-- **Sensor integration:** Infrared obstacle detection with real-time data processing
-- **Hardware design:** 3D-printed chassis optimized for sensor placement and mechanical performance
-- **Firmware:** Embedded C with obstacle avoidance algorithms
-- **Key takeaway:** End-to-end robotics development demonstrating hardware design, manufacturing, and embedded programming expertise
-
-**Technologies:** Embedded C/C++, ATmega328p, KiCad, PID Control, SharpIR Sensors, Arduino
-
----
-
-#### **2. ESP32 IoT Telemetry Dashboard** 📊
-**Industrial-grade sensor data acquisition and visualization**
-- **Embedded firmware:** ESP32 WiFi microcontroller managing BME280 environmental sensors (temperature, humidity, pressure)
-- **Real-time data streaming:** HTTP-based telemetry transmission over WiFi networks
-- **Hardware architecture:** I2C sensor integration with custom breadboard layout and debugging LEDs
-- **Python backend:** Flask HTTP server handling data ingestion and JSON serialization
-- **Data visualization:** Real-time Matplotlib graphs with Tkinter GUI for live monitoring
-- **Systems integration:** Full IoT pipeline from embedded sensor layer to desktop application
-
-**Technologies:** C++, ESP32, BME280 Sensor, I2C Protocol, HTTP/REST APIs, Flask, Python, Matplotlib
-
----
-
-#### **3. Robotic Manipulator Kinematics Simulation** 🦾
-**Forward & inverse kinematics for multi-link robotic arms**
-- **Mathematical modeling:** Forward and inverse kinematics implementation using trigonometric relationships
-- **Simulation environment:** CoppeliaSim 3D robotics simulator for real-time visualization
-- **Python control:** Automated joint control and end-effector trajectory calculations
-- **Real-world application:** Foundation for industrial robotic arm control systems
-- **Numerical methods:** Python-based algorithms for complex kinematic calculations
-
-**Technologies:** Python, CoppeliaSim, NumPy, Trigonometric Algorithms, Robotics Fundamentals
-
----
-
-#### **4. Warehouse Navigation Agent (ML-Based)** 🏭
-**Reinforcement learning agent for autonomous warehouse navigation**
-- **AI training:** Developed RL agent using Unity ML-Agents Toolkit and deep neural networks
-- **Autonomous navigation:** Agent learns pathfinding and obstacle avoidance through reward-based training
-- **P.E.A.S framework:** Performance metrics, environment design, actuators, and sensor integration
-- **Dynamic environments:** Training on complex warehouse scenarios with static and moving obstacles
-- **Performance monitoring:** TensorBoard visualization of learning progress and agent behavior
-- **Applications:** Industrial automation, autonomous robotics, and intelligent navigation systems
-
-**Technologies:** Unity 3D, ML-Agents Toolkit, Python 3.9, C#, TensorBoard, Reinforcement Learning, Neural Networks
-
----
-
-### Modern Web & Application Development
-
-#### **5. Warehouse Robotics Dashboard** 🚀
-**Real-time 3D fleet monitoring with modern frontend architecture**
-- **Real-time visualization:** React Three Fiber 3D rendering with autonomous robot fleet animation
-- **Live monitoring:** Robot status tracking, battery management, and task coordination
-- **Modern frontend:** Next.js 14 App Router with TypeScript and responsive design
-- **State management:** React Context API for efficient data flow
-- **Performance:** Glassmorphic UI with smooth animations and real-time data updates
-- **Deployment:** Vercel cloud deployment with automatic scaling
-
-**Technologies:** Next.js 14, React 18, TypeScript, React Three Fiber, Three.js, Tailwind CSS, Vercel
-
-**Live Demo:** [warehouse-dashboard-rust.vercel.app](https://warehouse-dashboard-rust.vercel.app/)
-
----
-
-## 🛠️ Technical Skills Summary
-
-### **Embedded & IoT**
-- **Microcontrollers:** ESP32, ATmega328p, ARM Cortex-M
-- **Languages:** Embedded C, C++, Arduino
-- **Protocols:** I2C, SPI, UART, HTTP/REST, WiFi
-- **Hardware:** PCB design (KiCad), sensor integration, power management
-- **Real-time systems:** PID control, interrupt handling, timing-critical algorithms
-- **Tools:** Arduino IDE, CoppeliaSim, oscilloscopes, breadboards
-
-### **Fullstack Development**
-- **Frontend:** React 18, Next.js 14, TypeScript, Tailwind CSS
-- **Backend:** Flask, Spring Boot, Node.js, Python
-- **Databases:** SQL, NoSQL, real-time data streams
-- **Languages:** JavaScript, TypeScript, Python, Java
-
-### **Robotics & AI**
-- **Kinematics:** Forward/inverse kinematics, trajectory planning
-- **Control Systems:** PID loops, obstacle avoidance, pathfinding
-- **Machine Learning:** Reinforcement learning, neural networks, TensorBoard
-- **Simulation:** CoppeliaSim, Unity 3D
-
----
-
-## Learning Path & Growth
-
-I'm actively expanding my embedded systems expertise with focus on:
-- **Modern C++ for embedded systems** (smart pointers, RAII, memory safety)
-- **Advanced control systems** and real-time operating systems (RTOS)
-- **Industrial automation** and edge computing
-- **Space/Maritime/Green industry applications** (mission-critical firmware)
+Welcome to my portfolio. I build systems that combine hardware and software to solve real-world problems—from autonomous robots and IoT platforms to interactive web applications.
 
 ---
 
 ## Featured Projects
 
-| Project | Type | Key Skills | Status |
-|---------|------|-----------|--------|
-| **Self-Navigating Robot** | Embedded Hardware | PCB Design, Embedded C, Real-time Control | ✅ Complete |
-| **ESP32 IoT Dashboard** | Embedded + Backend | WiFi IoT, Sensor Integration, Flask | ✅ Complete |
-| **Manipulator Kinematics** | Robotics | CoppeliaSim, Python, Math | ✅ Complete |
-| **Warehouse ML Agent** | AI + Robotics | ML-Agents, RL, Unity | ✅ Complete |
-| **Warehouse Dashboard** | Fullstack | Next.js, React, 3D Graphics | ✅ Live |
+### Self-Navigating Robotic Device
+
+A fully autonomous robot built from scratch, featuring custom PCB design, embedded firmware, and real-time obstacle avoidance.
+
+**Highlights:**
+- Custom PCB design and hand-soldered assembly using KiCad
+- Embedded C firmware on ATmega328p microcontroller
+- Real-time PID motor control for precise navigation
+- Infrared sensor-based obstacle detection and avoidance
+- 3D-printed chassis optimized for hardware integration
+
+**Tech Stack:** Embedded C, ATmega328p, KiCad, Arduino IDE, SharpIR Sensors
 
 ---
 
-## 📍 Location & Availability
+### ESP32 IoT Telemetry Dashboard
 
-**Based in:** Stavanger, Norway / Open to Remote 
-**Open to:** Embedded Engineer, Fullstack Developer, Robotics Engineer, Remote Embedded Systems Roles 
-**Interests:** Industrial automation, IoT platforms, robotics firmware, space industry applications, web technologies
+A complete IoT system demonstrating environmental data acquisition, wireless communication, and real-time visualization.
+
+**Highlights:**
+- ESP32 firmware managing BME280 environmental sensors (temperature, humidity, pressure)
+- I2C protocol implementation for hardware communication
+- HTTP-based wireless data streaming over WiFi networks
+- Flask backend for real-time data ingestion and API management
+- Live Matplotlib-based dashboard with Tkinter GUI for monitoring
+
+**Tech Stack:** C++, ESP32, BME280 Sensor, I2C, HTTP/REST, Flask, Python, Matplotlib
 
 ---
 
-## 📬 Get in Touch
+### Warehouse Robotics Fullstack Dashboard
+
+Real-time 3D fleet monitoring system for autonomous warehouse robots with live performance metrics.
+
+**Highlights:**
+- Interactive 3D warehouse visualization with React Three Fiber
+- Real-time robot status tracking, battery management, and task coordination
+- Dynamic efficiency graphs and fleet utilization metrics
+- Modern responsive UI with glassmorphic design
+- Live deployment with automatic scaling
+
+**Tech Stack:** Next.js 14, React 18, TypeScript, React Three Fiber, Three.js, Tailwind CSS, Vercel
+
+**[View Live Demo →](https://warehouse-dashboard-rust.vercel.app/)**
+
+---
+
+### Robotic Manipulator Kinematics Simulation
+
+Mathematical modeling and simulation of multi-link robotic arm movement using forward and inverse kinematics.
+
+**Highlights:**
+- Forward kinematics: end-effector position calculation from joint angles
+- Inverse kinematics: automated joint angle computation for target positions
+- CoppeliaSim 3D simulation environment for visualization and validation
+- Python-based control algorithms with NumPy for numerical computations
+- Foundation for industrial robotic arm control systems
+
+**Tech Stack:** Python, CoppeliaSim, NumPy, Trigonometric Algorithms, Robotics Fundamentals
+
+---
+
+### Warehouse Navigation Agent (ML-Agents)
+
+Autonomous navigation agent trained with reinforcement learning to navigate complex warehouse environments.
+
+**Highlights:**
+- ML-Agents Toolkit with deep reinforcement learning
+- Agent learns pathfinding and dynamic obstacle avoidance through reward-based training
+- P.E.A.S framework (Performance, Environment, Actuators, Sensors) implementation
+- Training on complex scenarios with static and moving obstacles
+- Performance monitoring and visualization via TensorBoard
+
+**Tech Stack:** Unity 3D, ML-Agents Toolkit, Python 3.9, C#, TensorBoard, Reinforcement Learning
+
+---
+
+## Technical Skills
+
+### Core Skills
+- **Microcontroller Development:** ESP32, ATmega328p, ARM Cortex-M architectures
+- **Embedded Programming:** C, C++, VHDL, Arduino ecosystem
+- **Hardware Design:** FPGA, PCB layout (KiCad), sensor integration, power management
+- **Communication Protocols:** I2C, SPI, UART, HTTP/REST, WiFi, LoRa, BLE
+- **Real-Time Systems:** PID control algorithms, interrupt-driven programming, timing-critical applications
+
+### Additional Capabilities
+- **Robotics:** Kinematics modeling, control systems, autonomous navigation, ROS ecosystem
+- **IoT Platforms:** Sensor networks, edge computing, wireless telemetry systems
+- **Full-Stack Development:** React, Next.js, TypeScript, Flask, Python, Spring Boot
+- **Simulation & Visualization:** CoppeliaSim, Unity 3D, Three.js, Matplotlib
+- **Machine Learning:** Reinforcement learning, neural networks, model training and evaluation
+
+---
+
+## Learning & Development
+
+Currently expanding expertise in:
+- Modern C++ for embedded systems
+- Industrial automation and real-time operating systems (RTOS)
+- Advanced control systems and signal processing
+- Edge computing and distributed IoT architectures
+
+---
+
+## Quick Links
 
 - **Email:** [denes.kosztyuk@gmail.com](mailto:denes.kosztyuk@gmail.com)
 - **LinkedIn:** [denes-kosztyuk](https://www.linkedin.com/in/denes-kosztyuk/)
-- **Portfolio:** [denkos.dev](https://denkos.dev)
+- **Location:** Stavanger, Norway
 
 ---
 
-**Built with curiosity, hardware, and code.** 🔧⚙️
+## Open To 
+
+Embedded systems roles • Fullstack Development • Hardware-software integration projects • IoT platform development • Robotics applications
+
+---
+
+*Built with hardware, code, and curiosity.*

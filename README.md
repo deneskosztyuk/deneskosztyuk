@@ -116,7 +116,8 @@ Currently expanding expertise in:
 ## Quick Links
 
 - **Email:** [denes.kosztyuk@gmail.com](mailto:denes.kosztyuk@gmail.com)
-- **LinkedIn:** [denes-kosztyuk](https://www.linkedin.com/in/denes-kosztyuk/)
+- **LinkedIn:** [denes-kosztyuk](https://www.linkedin.com/in/deneskosztyuk/)
+- **Web Portfolio:** [denkos.dev](https://www.denkos.dev/)
 - **Location:** Stavanger, Norway
 
 ---

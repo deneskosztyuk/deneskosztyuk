@@ -55,41 +55,11 @@ Real-time 3D fleet monitoring system for autonomous warehouse robots with live p
 
 ---
 
-### Robotic Manipulator Kinematics Simulation
-
-Mathematical modeling and simulation of multi-link robotic arm movement using forward and inverse kinematics.
-
-**Highlights:**
-- Forward kinematics: end-effector position calculation from joint angles
-- Inverse kinematics: automated joint angle computation for target positions
-- CoppeliaSim 3D simulation environment for visualization and validation
-- Python-based control algorithms with NumPy for numerical computations
-- Foundation for industrial robotic arm control systems
-
-**Tech Stack:** Python, CoppeliaSim, NumPy, Trigonometric Algorithms, Robotics Fundamentals
-
----
-
-### Warehouse Navigation Agent (ML-Agents)
-
-Autonomous navigation agent trained with reinforcement learning to navigate complex warehouse environments.
-
-**Highlights:**
-- ML-Agents Toolkit with deep reinforcement learning
-- Agent learns pathfinding and dynamic obstacle avoidance through reward-based training
-- P.E.A.S framework (Performance, Environment, Actuators, Sensors) implementation
-- Training on complex scenarios with static and moving obstacles
-- Performance monitoring and visualization via TensorBoard
-
-**Tech Stack:** Unity 3D, ML-Agents Toolkit, Python 3.9, C#, TensorBoard, Reinforcement Learning
-
----
-
 ## Technical Skills
 
-### Core Skills
 - **Microcontroller Development:** ESP32, ATmega328p, ARM Cortex-M architectures
 - **Embedded Programming:** C, C++, VHDL, Arduino ecosystem
+- **Full-Stack Development:** React, Next.js, TypeScript, Flask, Python, Spring Boot
 - **Hardware Design:** FPGA, PCB layout (KiCad), sensor integration, power management
 - **Communication Protocols:** I2C, SPI, UART, HTTP/REST, WiFi, LoRa, BLE
 - **Real-Time Systems:** PID control algorithms, interrupt-driven programming, timing-critical applications
@@ -97,7 +67,6 @@ Autonomous navigation agent trained with reinforcement learning to navigate comp
 ### Additional Capabilities
 - **Robotics:** Kinematics modeling, control systems, autonomous navigation, ROS ecosystem
 - **IoT Platforms:** Sensor networks, edge computing, wireless telemetry systems
-- **Full-Stack Development:** React, Next.js, TypeScript, Flask, Python, Spring Boot
 - **Simulation & Visualization:** CoppeliaSim, Unity 3D, Three.js, Matplotlib
 - **Machine Learning:** Reinforcement learning, neural networks, model training and evaluation
 

@@ -1,6 +1,4 @@
-# Hi, I'm Denes Kosztyuk 👋
-
-**Fulltime IoT Software Engineer · Industrial IoT · Embedded Systems · Full-Stack**
+**Industrial IoT · Embedded Systems · Full-Stack**
 
 📍 Stavanger, Norway
 🌐 [Portfolio](https://www.denkos.dev/)
